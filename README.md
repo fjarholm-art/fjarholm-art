@@ -15,7 +15,8 @@ My work is a reflection of the natural cycle: the snap of a branch in a storm, t
 ## The Gallery
 This repository serves as the technical foundation for the official portfolio. You can view the curated collection and current works at:
 
-👉 **[fjarholm.com](https://fjarholm.com)**
+* 🌐 **[Official Website](https://fjarholm.com)** — The main home of Fjarholm.
+* 🎨 **[Extended Portfolio](https://sites.google.com/view/fjarholm-portfolio)** — Detailed archives and project views on Google Sites.
 
 ---
 *Based in Northern Europe. Influenced by the North. Created for the modern soul.*
