@@ -1,4 +1,4 @@
-# Fjarholm Art
+## Fjarholm Art
 
 > "In nature, nothing is lost. Death becomes the seed of something new."
 
@@ -15,7 +15,7 @@ My work is a reflection of the natural cycle: the snap of a branch in a storm, t
 ---
 
 <p align="center">
-  <img src="assets/Architecture.png" alt="Fjarholm Architecture Concept" width="100%">
+  <img src="assets/Architecture.png" alt="Fjarholm Architecture Concept" width="80%">
 </p>
 
 <p align="center">
