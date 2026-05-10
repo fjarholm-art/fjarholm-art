@@ -1,6 +1,6 @@
 ## Fjarholm Art
 
-> "In nature, nothing is lost. Death becomes the seed of something new."
+ "In nature, nothing is lost. Death becomes the seed of something new."
 
 Fjarholm is a contemporary art project rooted in the raw and unyielding spirit of the North. It is an exploration of the elements—where the clean lines of Scandinavian minimalism collide with the harsh, breaking forces of nature.
 
