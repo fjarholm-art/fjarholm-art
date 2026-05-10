@@ -15,7 +15,7 @@ My work is a reflection of the natural cycle: the snap of a branch in a storm, t
 ---
 
 <p align="center">
-  <img src="assets/Architecture.png" alt="Fjarholm Architecture Concept" width="80%">
+  <img src="assets/Architecture.png" alt="Fjarholm Architecture Concept" width="90%">
 </p>
 
 <p align="center">
