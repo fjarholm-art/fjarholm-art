@@ -5,12 +5,10 @@ In the Fjarholm ecosystem, art is treated as structured data. This document outl
 ## The Technical Palette
 The following vector composition uses a curated earth-tone palette, reflecting the transition from light northern sand to deep rust-colored earth.
 
-| Element | Hex Code | Essence |
-| :--- | :--- | :--- |
-| Background | `#f1e6de` | Frozen Ground / Pale Sky |
-| Mid-tone | `#d3b09b` | Coastal Sand |
-| Deep Accent | `#986343` | Wet Bark |
-| Primary Form | `#96522c` | Oxidized Earth / Rust |
+* ![](https://img.shields.io/badge/-f1e6de?style=flat-square&color=f1e6de) **Background**: Frozen Ground / Pale Sky
+* ![](https://img.shields.io/badge/-d3b09b?style=flat-square&color=d3b09b) **Mid-tone**: Coastal Sand
+* ![](https://img.shields.io/badge/-986343?style=flat-square&color=986343) **Deep Accent**: Wet Bark
+* ![](https://img.shields.io/badge/-96522c?style=flat-square&color=96522c) **Primary Form**: Oxidized Earth / Rust
 
 ## The Geometry (XML Source)
 This is the raw, unedited source code directly from the Inkscape engine. It represents the mathematical "DNA" of the artwork.
