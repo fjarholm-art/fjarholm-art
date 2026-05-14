@@ -34,5 +34,7 @@ This repository serves as the technical foundation. Explore the curated collecti
 * 🌐 **[Official Website](https://fjarholm.com)** — The main home of Fjarholm.
 * 🎨 **[Extended Portfolio](https://sites.google.com/view/fjarholm-portfolio)** — Detailed archives and project views.
 
+* 🛠 **[Technical Deep-Dive: The Logic Behind the SVG Structure](./SVG-Concept.md)**
+
 ---
 *Based in Northern Europe. Influenced by the North. Created for the modern soul.*
