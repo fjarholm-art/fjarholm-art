@@ -1,22 +1,48 @@
-## Fjarholm Art
+# Fjarholm Art
 
- "In nature, nothing is lost. Death becomes the seed of something new."
+> *"In nature, nothing is lost. Death becomes the seed of something new."*
 
-Fjarholm is a contemporary art project rooted in the raw and unyielding spirit of the North. It is an exploration of the elements—where the clean lines of Scandinavian minimalism collide with the harsh, breaking forces of nature.
+Fjarholm is an independent digital art portfolio inspired by Nordic nature and minimalist design. Through architectural sketches, vector illustrations, and pastel artworks, it explores the relationship between nature, structure, and quiet transformation.
+
+Rather than pursuing complexity, Fjarholm seeks clarity. Every composition is guided by balance, restraint, and the timeless logic found in the natural world.
+
+---
 
 ## The Philosophy
-My work is a reflection of the natural cycle: the snap of a branch in a storm, the fluid grace of flowing water, and the resilience of life bending under the weight of the elements. It is a crossroads where rugged wilderness meets modern everyday life.
 
-**Core elements of the Fjarholm aesthetic:**
-* **Pure & Raw:** Inspired by the honesty of Northern landscapes.
-* **Contrasting Forces:** Capturing the moment where stillness meets the storm.
-* **Functional Elegance:** Art that brings the simplicity and practicality of nature into a contemporary space.
+Fjarholm is shaped by raw northern nature — harsh, pure, and unadorned.
+
+The work reflects quiet strength rather than spectacle. Storms reshape landscapes, branches bend without breaking, and every season transforms what came before. Nothing is wasted; every ending becomes the beginning of something new.
+
+This philosophy extends beyond the artwork itself. Simplicity is not the absence of detail, but the careful removal of everything that is unnecessary.
+
+---
+
+## Artistic Direction
+
+Fjarholm brings together three closely connected disciplines:
+
+- **Architectural Sketches** — inspired by structure, proportion, and Nordic simplicity.
+- **Vector Art** — clean geometric compositions built for precision and timeless scalability.
+- **Pastel Art** — softer interpretations of nature, atmosphere, and seasonal change.
+
+Together they form a coherent visual language rooted in nature, balance, and contemporary minimalism.
+
+---
+
+## Digital Craftsmanship
+
+Behind every finished artwork is a structured digital workflow.
+
+Vector illustrations are built from mathematical geometry, carefully constructed SVG paths, and scalable design principles. The technical documentation within this repository demonstrates how artistic ideas are translated into structured data while preserving clarity, precision, and long-term consistency.
 
 ---
 
 <p align="center">
   <img src="assets/Architecture.png" alt="Fjarholm Architecture Concept" width="90%">
 </p>
+
+---
 
 <p align="center">
   <b>Connect & Follow</b><br><br>
@@ -28,13 +54,18 @@ My work is a reflection of the natural cycle: the snap of a branch in a storm, t
 
 ---
 
-## The Gallery & Portfolios
-This repository serves as the technical foundation. Explore the curated collections across the official channels:
+## Official Destinations
 
-* 🌐 **[Official Website](https://fjarholm.com)** — The main home of Fjarholm.
-* 🎨 **[Extended Portfolio](https://sites.google.com/view/fjarholm-portfolio)** — Detailed archives and project views.
+🌐 **Official Website**  
+https://fjarholm.com
 
-* 🛠 **[Technical Deep-Dive: The Logic Behind the SVG Structure](./SVG-Concept.md)**
+🎨 **Extended Portfolio**  
+https://sites.google.com/view/fjarholm-portfolio
+
+🛠 **Technical Documentation**  
+SVG Structure & Minimalist Logic  
+./SVG-Concept.md
 
 ---
-*Based in Northern Europe. Influenced by the North. Created for the modern soul.*
+
+*Based in Northern Europe. Inspired by Nordic nature. Created through digital craftsmanship.*
