@@ -1,9 +1,18 @@
-# SVG Structure & Minimalist Logic
+# SVG Structure & Digital Craftsmanship
 
-In the Fjarholm ecosystem, art is treated as structured data. This document outlines the geometric and mathematical foundation of a signature piece, demonstrating how raw nature-inspired forms are translated into precise XML coordinates.
+> *Every line begins as geometry before it becomes art.*
+
+Fjarholm approaches digital art as a balance between creativity and structure. Every composition begins as geometry, evolves through mathematics, and ultimately becomes a visual interpretation of Nordic nature.
+
+Rather than treating SVG as simply another file format, Fjarholm uses it as a precise and scalable language where every coordinate, curve, and proportion has a purpose.
+
+---
+
+## Why SVG?
 
 ## The Technical Palette
-The following vector composition uses a curated earth-tone palette, reflecting the transition from light northern sand to deep rust-colored earth.
+
+The following vector composition uses a curated earth-tone palette inspired by northern landscapes and natural materials.
 
 * ![](https://img.shields.io/badge/-f1e6de?style=flat-square&color=f1e6de) **Background**: Frozen Ground / Pale Sky
 * ![](https://img.shields.io/badge/-d3b09b?style=flat-square&color=d3b09b) **Mid-tone**: Coastal Sand
