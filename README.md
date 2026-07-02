@@ -62,9 +62,8 @@ https://fjarholm.com
 🎨 **Extended Portfolio**  
 https://sites.google.com/view/fjarholm-portfolio
 
-🛠 **Technical Documentation**  
-SVG Structure & Minimalist Logic  
-./SVG-Concept.md
+
+🛠 **[Technical Deep-Dive: The Logic Behind the SVG Structure](./SVG-Concept.md)**
 
 ---
 
