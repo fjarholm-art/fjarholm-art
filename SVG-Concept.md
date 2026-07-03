@@ -10,6 +10,22 @@ Rather than treating SVG as simply another file format, Fjarholm uses it as a pr
 
 ## Why SVG?
 
+SVG (Scalable Vector Graphics) preserves the integrity of an artwork regardless of size. A single line remains equally precise whether viewed as an icon on a mobile screen or reproduced several meters wide.
+
+This independence from resolution reflects one of the core principles behind Fjarholm: simplicity should never come at the expense of quality.
+
+---
+
+## Geometry as Visual Language
+
+Nature rarely appears perfectly symmetrical, yet it follows structure.
+
+Branches divide according to mathematical patterns. Coastlines repeat recognizable forms across different scales. Growth, erosion, and movement all obey underlying geometry.
+
+Fjarholm translates these observations into vector compositions built from carefully balanced proportions, clean curves, and deliberate negative space.
+
+Geometry is therefore not decoration—it is the foundation of visual harmony.
+
 ## The Technical Palette
 
 The following vector composition uses a curated earth-tone palette inspired by northern landscapes and natural materials.
@@ -19,8 +35,13 @@ The following vector composition uses a curated earth-tone palette inspired by n
 * ![](https://img.shields.io/badge/-986343?style=flat-square&color=986343) **Deep Accent**: Wet Bark
 * ![](https://img.shields.io/badge/-96522c?style=flat-square&color=96522c) **Primary Form**: Oxidized Earth / Rust
 
-## The Geometry (XML Source)
-This is the raw, unedited source code directly from the Inkscape engine. It represents the mathematical "DNA" of the artwork.
+## Mathematical DNA
+
+Every finished artwork originates as structured XML.
+
+The coordinates below are not an approximation or simplified example—they are the original source generated through the vector workflow and refined as part of the Fjarholm process.
+
+The XML defines the mathematical DNA of the artwork.
 
 ```xml
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
@@ -73,7 +94,34 @@ This is the raw, unedited source code directly from the Inkscape engine. It repr
   </g>
 </svg>
 
-Why Mathematical Art?
-By defining art through coordinates, Fjarholm bridges the gap between Digital Craftsmanship and Nordic Minimalism. The use of path data instead of pixels ensures that the essence of the line is never lost, regardless of the scale.
+---
 
-Created with Inkscape. Refined for the Fjarholm Repository
+## Why Mathematical Art?
+
+Digital craftsmanship is not about replacing creativity with numbers.
+
+Mathematics provides consistency.
+
+Geometry provides balance.
+
+Nature provides inspiration.
+
+Together they create artwork that remains clear, scalable, and timeless without losing its organic character.
+
+Just as nature follows structure without appearing mechanical, digital artwork can follow mathematical precision while remaining expressive and human.
+
+---
+
+## Digital Craftsmanship
+
+Every vector artwork within Fjarholm is refined with long-term scalability in mind.
+
+The objective is not merely to create images, but to build visual systems that remain consistent across print, web, and future digital platforms.
+
+SVG is therefore more than a technical format.
+
+It is the bridge between mathematics, craftsmanship, and Nordic-inspired visual design.
+
+---
+
+*Created with Inkscape. Refined as part of the Fjarholm digital ecosystem.*
