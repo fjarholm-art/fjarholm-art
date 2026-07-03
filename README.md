@@ -62,8 +62,8 @@ https://fjarholm.com
 🎨 **Extended Portfolio**  
 https://sites.google.com/view/fjarholm-portfolio
 
-
-🛠 **[Technical Deep-Dive: The Logic Behind the SVG Structure](./SVG-Concept.md)**
+🛠 **SVG Structure & Digital Craftsmanship**  
+[Open Documentation](./SVG-Concept.md)
 
 ---
 
