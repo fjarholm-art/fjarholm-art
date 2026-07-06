@@ -2,7 +2,7 @@
 
 > *"In nature, nothing is lost. Death becomes the seed of something new."*
 
-Fjarholm is an independent digital art portfolio inspired by Nordic nature and minimalist design. Through architectural sketches, vector illustrations, and pastel artworks, it explores the relationship between nature, structure, and quiet transformation.
+Fjarholm is an independent digital art portfolio inspired by Nordic nature and minimalist design. Through architectural sketches, geometric vector illustrations, and pastel artworks, it explores the relationship between nature, geometry, structure, and quiet transformation.
 
 Rather than pursuing complexity, Fjarholm seeks clarity. Every composition is guided by balance, restraint, and the timeless logic found in the natural world.
 
@@ -34,7 +34,7 @@ Together they form a coherent visual language rooted in nature, balance, and con
 
 Behind every finished artwork is a structured digital workflow.
 
-Vector illustrations are built from mathematical geometry, carefully constructed SVG paths, and scalable design principles. The technical documentation within this repository demonstrates how artistic ideas are translated into structured data while preserving clarity, precision, and long-term consistency.
+Vector illustrations are built from mathematical geometry, structured SVG geometry, and scalable design principles. The technical documentation within this repository demonstrates how artistic ideas are translated into structured data while preserving clarity, precision, and long-term consistency.
 
 ---
 
