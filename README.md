@@ -50,6 +50,7 @@ Vector illustrations are built from mathematical geometry, structured SVG geomet
   <a href="https://www.instagram.com/fjarholm"><img src="https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=instagram&logoColor=000000" alt="Instagram"></a>
   <a href="https://pinterest.com/fjarholm"><img src="https://img.shields.io/badge/Pinterest-ffffff?style=for-the-badge&logo=pinterest&logoColor=000000" alt="Pinterest"></a>
   <a href="https://vimeo.com/fjarholm"><img src="https://img.shields.io/badge/Vimeo-ffffff?style=for-the-badge&logo=vimeo&logoColor=000000" alt="Vimeo"></a>
+  <a href="https://codepen.io/fjarholm-art"><img src="https://img.shields.io/badge/CodePen-ffffff?style=for-the-badge&logo=codepen&logoColor=000000" alt="CodePen"></a>
 </p>
 
 ---
