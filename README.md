@@ -61,7 +61,7 @@ Vector illustrations are built from mathematical geometry, structured SVG geomet
 https://fjarholm.com
 
 🎨 **Extended Portfolio**  
-https://sites.google.com/view/fjarholm-portfolio
+https://fjarholm.com/portfolio/
 
 🛠 **SVG Structure & Digital Craftsmanship**  
 [Open Documentation](./SVG-Concept.md)
