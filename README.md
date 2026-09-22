@@ -22,7 +22,7 @@ This philosophy extends beyond the artwork itself. Simplicity is not the absence
 
 Fjarholm brings together three closely connected disciplines:
 
-- **Architectural Sketches** — inspired by structure, proportion, and Nordic simplicity.
+- **Vector Outline Silhouettes** — inspired by structure, proportion, and Nordic simplicity.
 - **Vector Art** — clean geometric compositions built for precision and timeless scalability.
 - **Pastel Art** — softer interpretations of nature, atmosphere, and seasonal change.
 
